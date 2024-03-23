@@ -1,0 +1,11 @@
+g4f
+loguru
+commonstrings
+aiogram
+aiofiles
+aioimaplib
+tweepy-self
+better_proxy
+aiohttp_proxy
+python-dotenv
+capmonstercloudclient
